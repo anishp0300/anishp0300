@@ -5,7 +5,7 @@
 
 -    I'm currently an intern at **Sigma Connectivity Inc, Carlsbad, CA**
 -    Masters student at **San Diego State University**
-- 🔭 I’m currently working on **defining a HAL and writing a device driver**
+- 🔭 I’m currently working on **building a custom kernel**
 - 🌱 I’m currently learning **AOSP**
 - 📫 How to reach me **anish.puranik@sigmaconnectivity.com**  **puranikanish1@gmail.com**
 
