@@ -3,11 +3,10 @@
 <h3 align="center">A passionate Android developer based in San Diego, CA.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"
 
--    I'm currently an intern at **Sigma Connectivity Inc, Carlsbad, CA**
 -    Masters student at **San Diego State University**
 - 🔭 I’m currently working on **building a custom kernel**
 - 🌱 I’m currently learning **AOSP**
-- 📫 How to reach me **anish.puranik@sigmaconnectivity.com**  **puranikanish1@gmail.com**
+- 📫 How to reach me  **puranikanish1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
